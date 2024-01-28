@@ -1,0 +1,33 @@
+Intro-abhay
+
+GOOD EVENING everyone!
+i am abhay sharma and i am going to presnt on the topic Big Data in Cybersecurity.
+
+These are our contents.
+
+We're talking about how Big Data and Cybersecurity work together, like digital superheroes keeping our online world safe. Let's dive into this adventure and discover how they make our internet playground secure!
+
+slide 3)what is big data?
+
+The term Big Data is defined for the data sets that are very large or complex that traditional data set processing application software is inadequate or are unable to deal with these complex or large data sets. The major difference between tradition and big data is in terms of volume, velocity and variation. Volume means amount of data that is been generated; velocity refers to the speed with which the data is been generated and variation means types of structured and non structured data.
+
+Nowadays, big data is becoming an important topic for research in almost every field especially cyber security. The main sources of generation of this data are social media sites and smart devices. Generation of data at this speed leads to the various concern regarding the security of the data that is been created as it is very important to keep this data safe because this data also contain some important and sensitive data such as bank account number passwords credit card details etc so it is important to keep this data secure.
+
+Also, advances in Big Data analytics provide tools to extract and utilize this data, making violations of privacy easier. . As a result, along with developing Big Data tools, it is necessary to create safeguards to prevent abuse .
+
+slide 4) what is Importance of Big Data in Cybersecurity?
+1>Data Segmentation & Clustering:In cybersecurity, this helps organize data to spot patterns and understand what's normal or potentially risky.
+
+2>This helps in cybersecurity by looking at how things change over time, helping us forecast and prepare for potential cyberstorms.
+
+3>Calculation Of Statistical Parameters:It's like using math to figure out averages and trends. In cybersecurity, this helps analysts understand the usual behavior of systems and quickly spot anything out of the ordinary.
+
+4>Security Research & Threat Intelligence:
+This is like having detectives for the internet. They investigate and share information about new online threats, helping us stay one step ahead in keeping our digital neighborhoods safe.
+
+5>Real-Time Fraud Detection:
+Picture having a superhero sense for detecting tricky online scams instantly. In cybersecurity, this means catching fraudulent activities as they happen, preventing harm before it occurs.
+
+
+last slide
+Big Data is like our superhero in cybersecurity, helping us predict and tackle digital threats with its super-smart predictive analytics, threat understanding, and quick response powers. It's not just a tool; it's the hero fortifying our digital defenses. 
